@@ -8,15 +8,7 @@
 </head>
 <body> 
     <form action="process_form.php" method="post">
-        <label for="email">Entrez votre adresse e-mail :</label>
-        <input type="text" id="email" name="email">
         
-        <label for="password">Entrez votre mot de passe :</label>
-        <input type="password" id="password" name="password">
-        
-        <input type="submit" value="Soumettre">
-    </form>
-    <?php
 
     >
 </body>
